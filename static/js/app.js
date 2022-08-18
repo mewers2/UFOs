@@ -28,6 +28,7 @@ function buildTable(data) {
         }
         );
     });
+}
 
 // Create function to handle button clicks
 // (using the D3.js library - data-driven documents)
@@ -59,6 +60,3 @@ d3.selectAll("#filter-btn").on("Click", handleClick);
 
 // Build the table with all original data when the page loads
 buildTable(tableData);
-
-
-}
