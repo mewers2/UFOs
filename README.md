@@ -6,7 +6,7 @@ A journalist is compiling some data from reported UFO sightings from all over th
 ## Resources
 - Data Source: data.js
 - Software: Chrome Web browser, VS Code
-- Applications: GitBash, GitHub, JavaScript, HTML
+- Applications: GitBash, GitHub, JavaScript, HTML, Bootstrap, CSS
 
 ## Results
 The interactive table works great.  For example, to search for all UFO sightings that took place in California on January 1, 2010:
